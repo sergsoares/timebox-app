@@ -8,7 +8,7 @@ import (
 )
 
 func main()  {
-	num := flag.Int("d", 5, "timebox duration")
+	num := flag.Int("d", 900, "timebox duration")
 	title := flag.String("t", "Default task", "timebox Title")
     flag.Parse()
 	
