@@ -1,0 +1,5 @@
+server/__debug_bin
+bin/*
+tmp/
+ci
+secrets/
